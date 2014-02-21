@@ -1,0 +1,8 @@
+BETA 0.2.00 <Released DATE>
+ - Added tag editing to individual MP3s
+ - Added Table Preview
+
+BETA 0.1.00 (original) <Released 13-Jun-08>
+ - List all MP3's from selected folder
+ - Shows ID3v1 tags on selected MP3
+ - Generate HTML list of all MP3s in a folder

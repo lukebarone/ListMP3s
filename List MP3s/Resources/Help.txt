@@ -1,0 +1,20 @@
+INTRODUCTION
+
+List MP3's is a quick program to go through your music library without all the fancy you-ha of
+bigger programs (i.e. Windows Media Player, Winamp, Real Player, MusicMatch Jukebox, etc). I
+built this program to load quickly, work quickly, then leave, and that's EXACTLY what this is.
+After selecting a folder full of MP3's, it will load the list of *.mp3 files into the list box
+on the right of the window. This is the main starting point.
+
+Click on an MP3 on the list to view its ID3v1 tag embedded into the file. If tag information
+does not load, then there is no tag (Hence, the Has Tag checkbox should be cleared). You can
+start typing information into the text boxes and hit the Save button to save your changes, and
+add tag information. The text boxes are restricted to their lengths in the ID3v1 tag lengths.
+
+SPECIAL FUNCTIONS
+
+** Generate HTML List **
+
+After browsing to a folder, select this button to create an HTML list of the tags in each file
+in the listbox. This main purpose is to catalog everything in an easy-to-read format that every
+operating system knows well. You may add your own stylesheet to it when you please.
